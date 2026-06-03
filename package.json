@@ -1,0 +1,10 @@
+{
+  "name": "gold-investment-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "check": "node scripts/update-news.mjs --dry-run"
+  }
+}

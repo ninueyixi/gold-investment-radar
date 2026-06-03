@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T00:00:00.000Z",
+  "news": [
+    {
+      "id": "sample-fed-rates",
+      "title": "示例：美联储降息预期升温，市场关注实际利率变化",
+      "source": "示例数据",
+      "url": "https://www.federalreserve.gov/",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "降息预期通常压低实际利率和美元吸引力，降低持有黄金的机会成本，因此对国际黄金偏利多。"
+    },
+    {
+      "id": "sample-cny-gold",
+      "title": "示例：人民币汇率波动扩大，国内黄金溢价受到关注",
+      "source": "示例数据",
+      "url": "https://www.chinamoney.com.cn/",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "priority": "medium",
+      "impact": "neutral",
+      "scope": "china",
+      "reason": "人民币汇率会影响国内黄金计价和溢价表现，但方向需结合美元金价和境内需求判断，当前先归为中性观察。"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; connect-src 'self'; img-src 'self' data:; script-src 'self'; style-src 'self'; font-src 'self'; object-src 'none'; form-action 'none'; frame-src 'none'; upgrade-insecure-requests" />
+    <meta name="referrer" content="no-referrer" />
+    <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=(), payment=(), usb=()" />
+    <meta
+      name="description"
+      content="每日自动更新的黄金投资新闻影响看板，追踪影响国际金价与国内黄金的重点新闻。"
+    />
+    <title>黄金投资新闻雷达</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero__copy">
+          <p class="eyebrow">Gold Investment Radar</p>
+          <h1>黄金投资新闻雷达</h1>
+          <p class="hero__lead">
+            每天早上整理可能影响黄金价格的重点新闻，标注优先级、影响方向与判断理由。
+          </p>
+          <div class="hero__meta">
+            <span id="updatedAt">更新时间加载中...</span>
+            <span>覆盖国际黄金 / 国内黄金</span>
+          </div>
+        </div>
+        <div class="signal-card" aria-live="polite">
+          <span class="signal-card__label">今日主导信号</span>
+          <strong id="dominantSignal">分析中</strong>
+          <p id="dominantSignalReason">正在读取今日新闻影响。</p>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="今日黄金影响概览">
+        <article class="summary-card">
+          <span>高优先级</span>
+          <strong id="highCount">0</strong>
+        </article>
+        <article class="summary-card">
+          <span>利多黄金</span>
+          <strong id="bullishCount">0</strong>
+        </article>
+        <article class="summary-card">
+          <span>利空黄金</span>
+          <strong id="bearishCount">0</strong>
+        </article>
+        <article class="summary-card">
+          <span>近30天记录</span>
+          <strong id="historyCount">0</strong>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="新闻筛选">
+        <button class="filter-button is-active" data-filter="all" type="button">全部</button>
+        <button class="filter-button" data-filter="global" type="button">国际黄金</button>
+        <button class="filter-button" data-filter="china" type="button">国内黄金</button>
+        <button class="filter-button" data-filter="bullish" type="button">利多</button>
+        <button class="filter-button" data-filter="bearish" type="button">利空</button>
+        <button class="filter-button" data-filter="high" type="button">高优先级</button>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Daily Briefing</p>
+            <h2>今日重点新闻</h2>
+          </div>
+          <p>优先级越高，越可能在短期内改变黄金交易情绪。</p>
+        </div>
+        <div id="newsList" class="news-list" aria-live="polite"></div>
+      </section>
+
+      <section class="history-panel">
+        <div>
+          <p class="eyebrow">Archive</p>
+          <h2>最近记录</h2>
+        </div>
+        <ol id="historyList" class="history-list"></ol>
+      </section>
+
+      <footer class="disclaimer">
+        本页面仅用于新闻整理和投资研究参考，不构成任何投资建议。黄金价格受多重因素影响，请结合行情、仓位与风险承受能力独立判断。
+      </footer>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
