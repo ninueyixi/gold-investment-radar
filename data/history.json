@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-08-10",
+    "total": 24,
+    "highPriority": 9,
+    "bullish": 22,
+    "bearish": 2,
+    "neutral": 0
+  },
+  {
     "date": "2026-08-09",
     "total": 24,
     "highPriority": 8,
@@ -230,13 +238,5 @@
     "bullish": 19,
     "bearish": 3,
     "neutral": 2
-  },
-  {
-    "date": "2026-07-11",
-    "total": 24,
-    "highPriority": 8,
-    "bullish": 22,
-    "bearish": 2,
-    "neutral": 0
   }
 ]
