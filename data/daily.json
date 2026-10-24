@@ -1,24 +1,57 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T01:03:19.159Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:12:51.483Z",
   "news": [
     {
-      "id": "google-news-gold-macro-gold-prices-hinge-on-the-fed-decision-and-the-inflation-data-after-it-sto",
-      "title": "Gold Prices Hinge on the Fed Decision and the Inflation Data After It - StoneX",
+      "id": "google-news-gold-macro-gold-heads-for-steep-weekly-loss-as-hormuz-tensions-lift-crude-toward-fiv",
+      "title": "Gold heads for steep weekly loss as Hormuz tensions lift crude toward five-month highs - Kitco AM Report - Kitco",
       "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEpLemlSSU9BaVI2c1lEYV8tT3hEM0Zxa0dOcGhYLVhSLXhJdEpDYWlOQUJjVzAyVlRaMHU2dHQzVUN3TFRDOXJydEM2X3VXQ2xMOUQwNGVSbWtpOC1zeHNlNjBZd2JqZTJ2b3JyWC1MTzhIS2hCN2o4RllMQmd4Tmc5WnpVTXhtWk1YaDF6UFNGejdhdzhtNFdyQ3FMdUlyc2I2eThaMTM?oc=5",
-      "publishedAt": "2026-10-22T17:42:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVJURWgxVXc1VElXR01XdExIODFOSW9aRDR3eE0wSy15Tngxd0VLcFF4aTJrcmdDRnRYNWFQVGFUV09xWTg0UXBtdzUzR3NPMERicEtvekJnYXJBa2xTWXFqU05uT2Nhdmd2RUJrVHJMUXlMYVVKVXhNNklYUW1kNzB5eUltc1FiVmNQSFRRUUlPeFJPc3JKNUo0d2JQYWJSQlp2U25WVExmSnZfR2RSV1lNanlmZ1g0bXpB?oc=5",
+      "publishedAt": "2026-10-23T12:47:54.000Z",
       "priority": "high",
       "impact": "bullish",
       "scope": "global",
       "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
-      "id": "google-news-gold-macro-gold-hits-over-two-month-low-as-oil-rally-fuels-inflation-worries-kitco",
-      "title": "Gold hits over two-month low as oil rally fuels inflation worries - Kitco",
+      "id": "google-news-gold-macro-gold-off-three-month-lows-as-oil-rally-fans-inflation-worries-kitco",
+      "title": "Gold off three-month lows as oil rally fans inflation worries - Kitco",
       "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkNES3NPNlFvRjF1QzlSaFdaMjE0XzNIM1BHdmVXTXp3QXh1MERlNE5BZFFwalJreGkxZUJKVDFmd1ZxR1phWkM0SmhuTVJISUhXVVk5UzdUbkkxVmtSUHJQejhlM1FWeDNJN2tuWl9ibGVMdW9QNlNuclRzaGpYSVA1Z0l6SHRqMUlaU2lDZ2lSc2dpRTY0aUNiR2tXeTR5Szd2MEdvM0xmVHhScWpKVTMxMA?oc=5",
-      "publishedAt": "2026-10-22T12:13:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzRsRDlkM2lxeHpUNWxYTXlvR09nRjU2RXVTSzYxNmR6RFdOa1IxWDJlZzFyWnI5M1hmSnhSSnphT0ZzdUdLUWNtRFdyZ3h1TjFnS1MzbThVRHRWZGY0eVBkWl9Xbm9SajRqVjNwOXI3eUpjV2xKV2tVWGRGdWswWTBhU3p3QUIxRUlqZDNRbHpOeHZTWFpsaDlOcjh3eW1yT2RMMjl0RzE?oc=5",
+      "publishedAt": "2026-10-23T12:16:32.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+    },
+    {
+      "id": "google-news-gold-macro-when-housing-falters-and-inflation-persists-gold-stands-strong-goldbroker",
+      "title": "When Housing Falters and Inflation Persists, Gold Stands Strong - GoldBroker",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXNfSjdhQkxoZ2lRNFg3bjZfNDJ5V19XbGJCRnZUZGtMNldSSlVld2lldFhoN0hUeEN4djAyTk1jYjFFbUt3Nml0Z3AxZEVtd2ZGVTlvVlB1WUtPX3JKMm5DWVpNSF9DVng3LVhBNDVIcEtiSlp4Y1NUREw5VmlUMHV0V2VEd0k1?oc=5",
+      "publishedAt": "2026-10-23T09:05:36.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+    },
+    {
+      "id": "google-news-gold-macro-gold-set-for-steep-weekly-loss-as-rising-oil-prices-bolster-fed-rate-hike",
+      "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets - CNBC",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
+      "publishedAt": "2026-10-23T04:29:38.000Z",
+      "priority": "high",
+      "impact": "bearish",
+      "scope": "global",
+      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
+    },
+    {
+      "id": "google-news-gold-macro-gold-prices-hinge-on-the-fed-decision-and-the-inflation-data-after-it-sto",
+      "title": "Gold Prices Hinge on the Fed Decision and the Inflation Data After It - StoneX",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEpLemlSSU9BaVI2c1lEYV8tT3hEM0Zxa0dOcGhYLVhSLXhJdEpDYWlOQUJjVzAyVlRaMHU2dHQzVUN3TFRDOXJydEM2X3VXQ2xMOUQwNGVSbWtpOC1zeHNlNjBZd2JqZTJ2b3JyWC1MTzhIS2hCN2o4RllMQmd4Tmc5WnpVTXhtWk1YaDF6UFNGejdhdzhtNFdyQ3FMdUlyc2I2eThaMTM?oc=5",
+      "publishedAt": "2026-10-22T17:42:47.000Z",
       "priority": "high",
       "impact": "bullish",
       "scope": "global",
@@ -80,8 +113,8 @@
       "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
-      "id": "google-news-gold-macro-gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path-bloomberg-",
-      "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path - Bloomberg.com",
+      "id": "google-news-gold-macro-gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path-bloomberg",
+      "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path - Bloomberg",
       "source": "Google News Gold Macro",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlBORHhHSWt0MDQzVVdWSkpKcHhLeVFia0U1M2VDT1Y5eGZYSWJZdDJLX09heXV6eGxUWGZuMGwzMlJZWFBoOEJxWjloWFZRVEtZMEhsUEhlTWctcFNyWXFNSDFQMTNiU3ozelhkWFJFeGNVOVUxcUNNNHR2WTJiTHJ4TkdkeXBkU3RrOExfTzNMU3hMeFkzNDZyQ2RBWk5NaHlMNW1EWnplYm1kTmdCLXYxOA?oc=5",
       "publishedAt": "2026-10-20T16:26:15.000Z",
@@ -91,22 +124,22 @@
       "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
-      "id": "google-news-gold-macro-inflation-has-tied-the-federal-reserve-s-hands-while-competition-for-capi",
-      "title": "Inflation has tied the Federal Reserve's hands, while competition for capital is pushing up interest rates. Despite bullish fundamentals for gold prices, upward momentum is absent due to hidden selling pressure. - Moomoo",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS09nbzVoRl9Rc3Jpb296bEtfVW1xd2ZKWnYzT2RHWmhtZTBWS21ycDNCcS15T1VteW82eXZIWnlRX24tNThiZ0F4ZnZlNmhuc0ZoYkZPU0h6Q25XS0kxSDlUNEJqb1dmS082WUZOUElvN2ZVY1c4RGU2WFZUbHlyb005emIzaGxFWnU2TW8xeHQxb0hJZkJqR1RUY1VLSU1DRURkS2ZXTjN0T1B1?oc=5",
-      "publishedAt": "2026-10-20T10:54:13.000Z",
-      "priority": "high",
+      "id": "google-news-china-gold-面对面-中金缪延亮-央行黄金储备超美债-但回不到-金本位-财新",
+      "title": "面对面｜中金缪延亮：央行黄金储备超美债，但回不到“金本位” - 财新",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzU09Tb2JGZFB3cWJjLVdzOXhsLWVsMnQ3eFNaV3RkeElQdlk2U1BOYzRoa2FzR3otRndadFR4U3Z3bVBkTnBoMWpUNXRfMEtsLS12bFZoR2x6LURxcTB0WEV3?oc=5",
+      "publishedAt": "2026-10-24T01:00:00.000Z",
+      "priority": "medium",
       "impact": "bullish",
-      "scope": "global",
-      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-央行购金提速-黄金配置价值凸显-3股业绩倍增可期-名单-东方财富",
-      "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单) - 东方财富",
+      "id": "google-news-china-gold-图解财报-赤峰黄金三季报盈利22-85亿人民币-同比增加11-05-东方财富",
+      "title": "【图解财报】赤峰黄金三季报盈利22.85亿人民币，同比增加11.05% - 东方财富",
       "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wQXBYVTh0SmlsMGl6Zi1mZUxlSk8yNlNLVWVxNG5XWlN5aENPR1BXYmtUQkx0S0pTUGFoaFA0YlRiNEFYNExFYUxxd1NVeEc5cnRMd2xGSmx6NTcyaHhRckF2RQ?oc=5",
-      "publishedAt": "2026-10-22T23:35:33.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRZjZjNWJVRlRRLTY2aWd6d255UU9PSW5QOWdWOUxFVUZMT3pZTTRFanZTdm9kSFdYbmJBVHY1N2FDTGJBT0xYR0p6c05GdEhtR0VxOXVESnNHRGxJbWRqMQ?oc=5",
+      "publishedAt": "2026-10-23T11:02:46.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -124,33 +157,22 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-央行购金预期升温-投资天弘上海金基金捕捉黄金储备配置需求-手机网易网",
-      "title": "央行购金预期升温，投资天弘上海金基金捕捉黄金储备配置需求 - 手机网易网",
+      "id": "google-news-china-gold-央行购金提速-黄金配置价值凸显-3股业绩倍增可期-名单-东方财富网",
+      "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单) - 东方财富网",
       "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsd2VCSWNDMl9HUEx5YnlTeDZSR0dPdzZQcnpjcl9UR1NHNUIxUEFOVUFyYjFYMWNkWVN3NGwtNndUNnM0TW5GT3dHWjRGdnFNaUx3dkh4MURqSTc5OXpKZ0Rn?oc=5",
-      "publishedAt": "2026-10-22T02:54:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DbnBoTk9sbmQ4dEs5UEZrcEZHblJnaFZMdUtvNXdndTVoVHBWa3R0eEM0bERDYmZtTFVFX2pObmdpUVdFWG5RMEhxMkNWdHM0dXF4SHoxOUN4NjA1clRhdVZzRXlvZw?oc=5",
+      "publishedAt": "2026-10-22T12:25:42.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-委内瑞拉即将达成协议-将黄金储备从英国转移至美国-英国央行-comex黄金-反对派-纽约-英格兰银行-finance-sina-com-cn",
-      "title": "委内瑞拉即将达成协议，将黄金储备从英国转移至美国|英国央行|COMEX黄金|反对派|纽约|英格兰银行 - finance.sina.com.cn",
+      "id": "google-news-china-gold-数字人民币app里能买黄金啦-兴业银行首家落地-第一财经",
+      "title": "数字人民币APP里能买黄金啦！兴业银行首家落地 - 第一财经",
       "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNRnhJZWN3cWRFbl9MZ3JvVHZKUFpHMzRBTUgyaUFWMUN5VWpzbFpUcGp3a3lSUlgyNTdRUnk4aHZtT3dvVG5Gd0czTjg2cmJiWmM1RmZyWE9EQ3JNZlhBRnoyM21CTFBZeWVHd1h1VHRmX3BPd281aTRreVJDdnAxeE85ZEh2UzFSbnhocTdfSFM4bmIzcm9QTkR1RWl2QXI4Y1BmdWRSMDc2R0ZfR0FHRFRIdDdJZDNKWXh1MjhWSG04OWdEVUZIdjhOcE5lQUhUMnZqUFlNWW9BUFhKSVhJTlc2VE9YbWhPYVBYS0o1TnBNSTdBMWw3MUlhcGtOWHVmbWVpTDlvbHFkZ3UzS1RLRkZ2RVZ2d2VHaWRQbl9UbEdRbjUwYWY0VVgtT2Myc21ZYUxxZnBaVUxTNFkzaDk0ZHNiRjI4V2FxcWc?oc=5",
-      "publishedAt": "2026-10-17T13:19:36.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-china-gold-世界黄金协会深度解读-央行缘何转移黄金储备-渥太华-流动性-纽约-伦敦-荷兰-finance-sina-com-cn",
-      "title": "世界黄金协会深度解读：央行缘何转移黄金储备？|渥太华|流动性|纽约|伦敦|荷兰 - finance.sina.com.cn",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMixAZBVV95cUxNY29iVXB2ajNFNDNjMnVuRmVEN29yVGw5WnVELS1WVlI3LXdSSzFwYWE1bUNSZWhqYV9YWE1Ub3F1Qk5ycW9EdGRieE93QWltOWtNVkZjdUlaQ3NNVDlrcVU0SGRJYTU1YXdvVzNLNkZPb3lmekpQd2lqbGFYTFh2LWs1dVBwS0FpNi1pVDdfS01URHlaMGpCSjhnbUJETlc4ajlzeTVaZ0pGSmJjamlvNlYzRjNvMzcyOG56Wldmek1PX3ZsdlBYckhrQjZqXzN0Uzl1MzdGM1RXNW5rN19TQmVpazZJak8tY1dtZk1mN2xlLXdDaFFqOTR0U3M0aVBROW5NbFhRNEM2T3FuOXRVMy1MU1BEZnpzM2t6dnpEeWN5c2lnaTlyaEU4UnBCUHhBdTFlU0EwdFVZZV9GMEpfcG5BM2RxS0xXWDc2UE1xMThCTHl6Tko2RGptc0hFUHRsN0NZUDdEamRpWUM2LTVJUzVnZDR5THNTY0h6c2pnMXloY1pQQVpWYkdmSHBocjNMT2ZRVXJaUkVwM1NuSmlhMlMyY3RHZE5MWWk3QUhfQW9HejJQak5yWkhzdDMtQWk0VGRrTlZBQmtHNk0zeE9uemJNZmNpbWtUUGN2ZEJUbFdkWWZ1VWNDSkI2TVI0RXVoY3k5OW9WZENkaU9MVk4tSlJ3VkZ4N2QyblpIVDc0QXdweTlHOWNfM1M3MlFOWGwtM1p0T256Nmh3VGNKdDdKRXJRdlhRUVROdGV2eTdaamtxTU81OGFRa1JwcC1rNHQ5MmNtd3Zjc08zU2xtT0N2N29tOHU5azktMzE3M3RuZEFPajZfU3FDZkkzR2NHaUlUXzRlMzdKRGZwZE5taHZ3UHQ3VGFzbkhUYnlDNGxmRG9JZVM3a1JOdVJsOVBIYjZVMkhaQ1RsaDhpUmxyaFd1U2Q1dTB3VWo1V0V6WHZqcFozVUthWTJiQ0ZybFMwVXJrR1Y4VmtDNi12LUdfOTRSbUNoRGlVQURNbzhGYjE3U0JaSFpRQ29ZcGZ6YVQtTHFIN2FqZHVqalFNQU5OS2NmZlZvLUNmSEtnVUdKSVN2bzVHU3FEQUdnempXV1luOXZyOUNJTQ?oc=5",
-      "publishedAt": "2026-10-17T05:30:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jMVJhcThMUHlfYWNmMUZnNnpLNDd2d2tQRi1ja0VLZjZ1NTVhZnR3WHVqd1Zacm9nVmxGc2hRU1FMRnQ3aGtUdkFBcVFURXl2RVZN?oc=5",
+      "publishedAt": "2026-10-22T00:34:31.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -172,6 +194,17 @@
       "title": "哈萨克斯坦央行启动黄金减持计划 年底前将黄金储备占比降至75% - 财联社",
       "source": "Google News China Gold",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uUjdyWXhvTm4zUGFXWTEySGR6aWNqQnZWRzRVVm15SzlET0ROX2tZNTRwbjlpaW9tSXQxc2QwY3lBb3NjSF9wZA?oc=5",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-又有一家央行拟降低黄金储备-黄金-不香了-thepaper-cn",
+      "title": "又有一家央行拟降低黄金储备，黄金“不香了”？ - ThePaper.cn",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGQmFQYzVEc20xVlB6Y01naWhoOUlHOExrdGFNTHpmLWJEejZ5cDVjNTVNMXdYQzY1YjZ1QUw2UDVRV1VYTDF4YjI3Z2o4VVhaVWpwRmFHdmQzZWpRYmc?oc=5",
       "publishedAt": "2026-10-13T07:00:00.000Z",
       "priority": "medium",
       "impact": "bullish",
@@ -232,39 +265,6 @@
       "impact": "bullish",
       "scope": "china",
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-gold-macro-gold-slides-as-safe-haven-demand-shifts-to-us-treasuries-despite-lower-yi",
-      "title": "Gold slides as safe-haven demand shifts to US Treasuries despite lower yields - FXStreet",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3R0a3pNU2ItV205c3pIcGlQQTA0VzRkVVh5VVpZV3pPanRCZ0FuNHhiZFdUeHpuNlE1RFBKbUtXSlYzemZPbTBWR2NVOHJnd0ppd05FbWdVNklDR2NHVi15OUpkNjBsTXg3eTdxN3hsZ3BlVnYwbEV3bDFnRXV6cmo2WVFzd2RLX0g3T3htYzNwVVRDMDl1X0d1eGV2OFZaeDJrMzBPLVlpTUlTclhZeDdHMHVpM3FKR0ZrYg?oc=5",
-      "publishedAt": "2026-10-22T18:37:32.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "google-news-gold-macro-gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-bloom",
-      "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path - Bloomberg.com",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
-      "publishedAt": "2026-10-22T15:07:59.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "google-news-gold-macro-us-dollar-hits-274-000-tomans-in-iran-as-gold-and-coin-prices-surge-iranw",
-      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge - IranWire",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
-      "publishedAt": "2026-10-22T14:36:36.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
     }
   ]
 }
