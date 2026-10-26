@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T00:37:39.911Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T00:48:10.543Z",
   "news": [
     {
-      "id": "google-news-gold-macro-bitcoin-or-gold-which-is-the-better-inflation-hedge-with-prices-up-3-7-24",
-      "title": "Bitcoin or Gold: Which Is the Better Inflation Hedge With Prices Up 3.7%? - 24/7 Wall St.",
+      "id": "google-news-gold-macro-gold-price-outlook-as-us-bond-yields-rise-ahead-of-fomc-decision-benzinga",
+      "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision - Benzinga",
       "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlRSM2pQa28wNU5wX2ZGY3pZNE5KY3dMV2xpMlB0cndndzA4RDI0UHRuMldraDE0cWR1Y1FEaUdCLUZ3QmJrVWZsRHRYTnlHSG0zMGxLaEpuWEw0Qmtid3lfWVFobUpIdUV2ZG1DMlpzN0h2VW9JQTRBV3BSanBZSWtXMlIxZEc3QkRZNXBaczZ5bUFmS3Rqall3WWlQel83ZFZhdG1zMnRtdnEyTUNEb1p4OFRzelU2bW01QXVURDVJRDAtMlV0Mw?oc=5",
-      "publishedAt": "2026-10-24T21:48:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
+      "publishedAt": "2026-10-25T15:15:15.000Z",
       "priority": "high",
-      "impact": "bullish",
+      "impact": "bearish",
       "scope": "global",
-      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
     },
     {
       "id": "google-news-gold-macro-when-housing-falters-and-inflation-persists-gold-stands-strong-goldbroker",
@@ -34,17 +34,6 @@
       "impact": "bearish",
       "scope": "global",
       "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
-    },
-    {
-      "id": "google-news-gold-macro-gold-falls-to-more-than-two-month-low-as-oil-fuelled-inflation-fears-weig",
-      "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh - Reuters",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-      "publishedAt": "2026-10-22T20:06:35.000Z",
-      "priority": "high",
-      "impact": "bullish",
-      "scope": "global",
-      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
       "id": "google-news-gold-macro-gold-prices-hinge-on-the-fed-decision-and-the-inflation-data-after-it-sto",
@@ -113,6 +102,17 @@
       "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
+      "id": "google-news-gold-macro-gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech-bloomber",
+      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech - Bloomberg.com",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+      "publishedAt": "2026-10-19T20:16:17.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+    },
+    {
       "id": "google-news-gold-macro-gold-drops-over-1-as-hot-u-s-inflation-data-boosts-fed-hike-bets-cnbc",
       "title": "Gold drops over 1% as hot U.S. inflation data boosts Fed hike bets - CNBC",
       "source": "Google News Gold Macro",
@@ -146,6 +146,17 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
+      "id": "google-news-china-gold-央行购金提速-黄金配置价值凸显-3股业绩倍增可期-名单-东方财富",
+      "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单) - 东方财富",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DbnBoTk9sbmQ4dEs5UEZrcEZHblJnaFZMdUtvNXdndTVoVHBWa3R0eEM0bERDYmZtTFVFX2pObmdpUVdFWG5RMEhxMkNWdHM0dXF4SHoxOUN4NjA1clRhdVZzRXlvZw?oc=5",
+      "publishedAt": "2026-10-23T19:00:37.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
       "id": "google-news-china-gold-图解财报-赤峰黄金三季报盈利22-85亿人民币-同比增加11-05-东方财富",
       "title": "【图解财报】赤峰黄金三季报盈利22.85亿人民币，同比增加11.05% - 东方财富",
       "source": "Google News China Gold",
@@ -173,17 +184,6 @@
       "source": "Google News China Gold",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsQ0hleXo4UGdGbXc3UVdQUUptSVJab0g5Sm51U1laZzdTcVR2RzVwaVBjTzZIcHpDVEcwVG5Bb1R2eUx1cUE0X2hFM2haM2FrdkVDVlo3NEdHcW9YNDEwSktiZ2I?oc=5",
       "publishedAt": "2026-10-22T13:24:34.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-china-gold-央行购金提速-黄金配置价值凸显-3股业绩倍增可期-名单-东方财富",
-      "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单) - 东方财富",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DbnBoTk9sbmQ4dEs5UEZrcEZHblJnaFZMdUtvNXdndTVoVHBWa3R0eEM0bERDYmZtTFVFX2pObmdpUVdFWG5RMEhxMkNWdHM0dXF4SHoxOUN4NjA1clRhdVZzRXlvZw?oc=5",
-      "publishedAt": "2026-10-22T11:25:42.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -237,7 +237,7 @@
       "id": "google-news-china-gold-黄金储备再刷新高-央行购金连续23个月未停手增持力度不断加大-新京报",
       "title": "黄金储备再刷新高！央行购金连续23个月未停手增持力度不断加大 - 新京报",
       "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYUVLQ3o3cEZ4RC1uYWNnMjhjc1hKOG54S3AxLWJxamNKTHdGa1d3TWRqd01kSHE1V25EYWY1X2JNTmthN0pubjRrZWxHZlRtU2dTdk8wSVFWdV84NFRkV3Bn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zZG5uMkpBWUNaUG5VSkVpRmg1WGtaNU4yckxmRHk3MlliUHd2cGR3WGJtV2tBUmJDbTN0a2RNM3FyNjlueDBkZHdYV013VVVKM1dHWHRDNG92YjVqTzhIb0RnYUE?oc=5",
       "publishedAt": "2026-10-07T07:00:00.000Z",
       "priority": "medium",
       "impact": "bullish",
