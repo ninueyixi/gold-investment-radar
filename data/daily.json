@@ -1,29 +1,7 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T02:47:04.616Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T02:55:53.161Z",
   "news": [
-    {
-      "id": "google-news-gold-macro-gold-falls-0-5-on-november-3-as-dollar-and-yields-rise-nation-thailand",
-      "title": "Gold falls 0.5% on November 3 as dollar and yields rise - Nation Thailand",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aM1Z4MEtzV2hXRTFnMmdxS3RES2hUcE94T1RudjREekZhQ2NySHhna0tBV2FMQWd1YkxZNEd1a0ZCcHZaNF9UUldQQU9mQWQxZXdiTkxnTEZSa1RDYWF0RUpiV2l5cy1DMHFKQWM3T3NSNm5yemc?oc=5",
-      "publishedAt": "2026-11-04T00:38:00.000Z",
-      "priority": "high",
-      "impact": "bearish",
-      "scope": "global",
-      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
-    },
-    {
-      "id": "google-news-gold-macro-gold-falls-near-3-900-amid-rising-us-yields-and-fed-hawkish-bets-fxstreet",
-      "title": "Gold falls near $3,900 amid rising US yields and Fed hawkish bets - FXStreet",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFZPdHRrT2xwVTk5SW41ZUFGY2lELW4yNTk5aXg2amIxUkhOdmNhUThNZndWX0pLTk9yUmNEcmFJRC0wVFpnOFpweDQ2UzZmZGpWdl9GX1ZCdmxvc0FOZmlVWG1MMThrOHhOQnJvaGg4SHlwSmw5S05WeEtrUWhYb2R4ZDN0T09QRFlaUVJQYlRTc1JsTWdNV0NRTlBobXpyWXJvZzJuTUlCYnc?oc=5",
-      "publishedAt": "2026-11-03T19:09:32.000Z",
-      "priority": "high",
-      "impact": "bearish",
-      "scope": "global",
-      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
-    },
     {
       "id": "google-news-gold-macro-gold-slips-as-higher-oil-u-s-inflation-data-bolster-fed-hike-bets-cnbc",
       "title": "Gold slips as higher oil, U.S. inflation data bolster Fed hike bets - CNBC",
@@ -47,15 +25,81 @@
       "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
     },
     {
-      "id": "google-news-gold-macro-gold-slips-on-higher-oil-markets-assess-warsh-comments-after-fed-holds-ra",
-      "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady - Reuters",
-      "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
-      "publishedAt": "2026-10-28T21:25:47.000Z",
-      "priority": "high",
+      "id": "google-news-china-gold-三季度黄金etf与央行购金强势护盘-行业新闻-全球矿产资源网",
+      "title": "三季度黄金ETF与央行购金强势护盘_行业新闻 - 全球矿产资源网",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KZHQzLTB0RGRsYWdkMGhEZ21hNnZJby1mV1B4X1Bya2UwMkdzSmNFU09nYllmMGxQSC13U2hxX2ZzamwtUVAtVXFnRW5QN0RHUEowLWkyTnNwRmFBXzNNeGdoQUdUQkM5MExTVXBXbmdob0FycGxKalJrLWtKRTg?oc=5",
+      "publishedAt": "2026-11-05T00:50:39.000Z",
+      "priority": "medium",
       "impact": "bullish",
-      "scope": "global",
-      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-tether-截至三季度末-xaut-黄金储备达约-25-7-吨-约合-34-4-亿美元-cryptorank",
+      "title": "Tether：截至三季度末 XAUT 黄金储备达约 25.7 吨，约合 34.4 亿美元 - CryptoRank",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WLThHYTg0M3NjLW5QQUI4RWFGb196R2ZWdDZhYXk4SGhVdXB4SW1ya3pyVUNpd3hpT0twaUZlaE5ZRThyOFZpdEZvVlBXVE0yeEpBa0dMSHFyQWph?oc=5",
+      "publishedAt": "2026-11-04T21:54:18.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "both",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-三季度黄金总需求1369吨-央行购金-etf净流入211吨成支撑-手机新浪网",
+      "title": "三季度黄金总需求1369吨，央行购金、ETF净流入211吨成支撑 - 手机新浪网",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTdPYmNxaEZ2RWQzdkVuVG9abEdMRGlNQzl2V2FlVU9XeklnQlk2Y3M0MnJYT2xJOFZncGxWVU5xS2ZMbElpdmxXVFloQ25hbXFSWDRuTkRoVS04SVc2ODVIdW1IMW1vOXdFVkQ1VkR0NGZNZXVUM2dvNC02VDBpbzZ3?oc=5",
+      "publishedAt": "2026-11-04T08:36:00.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-tether黄金储备单季骤减3吨-但华尔街看到了更大机会-fx168财经",
+      "title": "Tether黄金储备单季骤减3吨！但华尔街看到了更大机会 - FX168财经",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Cd3RfZU85UFJDQTZseTZqSGlURHM3dUdTUGItWHdOWk1TWHJJaXFCUEJlUmdrY2dvVGl1czQ1cWJoWUZaeThybzRuOFY1Ri16SW9EWDZnTzFsdGQw?oc=5",
+      "publishedAt": "2026-11-04T05:27:06.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-三季度全球央行购金创近两年来单季新高-黄金etf博时-159937-跟踪指数早盘最高涨超1-jiemian-com",
+      "title": "三季度全球央行购金创近两年来单季新高，黄金ETF博时(159937)跟踪指数早盘最高涨超1% - Jiemian.com",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZ0stUjRqd0laeVRUZVE4V1E2RHVlUUxIdjZzdmxJY2I5SmlxYXNkczgtaHNleDNvb296ZjBXNGo3NUlEck4wMkZXRFVuN1BsWk5mN25hMVo?oc=5",
+      "publishedAt": "2026-11-04T03:44:59.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-中国黄金储备居全球第五-新浪网",
+      "title": "中国黄金储备居全球第五 - 新浪网",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNjJZb3REbW9LZU5GZVhKdUlabWlfUmotVmQyRWpxb215SUwwOFJBZGxXaDZYaVl4QlZ4bUQ2QVhiT3A4ZmRXV3JvMA?oc=5",
+      "publishedAt": "2026-11-04T02:59:05.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
+    {
+      "id": "google-news-china-gold-三季度全球黄金需求获支撑-央行购金与etf流入双发力-中华网",
+      "title": "三季度全球黄金需求获支撑，央行购金与ETF流入双发力 - 中华网",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XTTh4emhBakROdXIyR0NsY3pyeDdRWWI3SUZxdVRiM3B1b1NLMlZaZ2NVX216N0tfN0NiMUNScm5oUHFXRmNYSlVhSXNhd3BwRFhMMGEyM0l1eXVra2I1eWhKT0kzOXo0NDR1M2RLbU0?oc=5",
+      "publishedAt": "2026-11-04T02:51:45.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
       "id": "google-news-china-gold-全球央行三季度购金量同比大增42-央行购金支撑黄金配置价值丨盘前线索-21财经",
@@ -85,17 +129,6 @@
       "source": "Google News China Gold",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12bEc2MWoyZXZueUFtcUEzcTVVcTFyV0JNT2J2elJ3QTN5U1BpNDJKZ0EwY2o4RjctdVRBOEJ0YnVsaW5jT3NMWm5OM1lzMTBSN2tLeHZhcnpqU2llY2k5SA?oc=5",
       "publishedAt": "2026-11-03T12:53:40.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-china-gold-世界黄金协会-三季度全球央行购金321吨-同比增长42-观点网",
-      "title": "世界黄金协会：三季度全球央行购金321吨 同比增长42% - 观点网",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdmVpeHY2dkszWmFERmRNdy10LU9IZ1huRVlvdG9HUXh6RUR0NnVDTFQzS28xeGlfU3FSQ1NJZGpsZzAzMHhwTmh3VVVUdTVHajhjUFRtNGhIZ1VQOTFmaXdn?oc=5",
-      "publishedAt": "2026-11-03T11:51:03.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -135,33 +168,11 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-世界黄金协会-三季度全球央行购金321吨-黄金etf持仓创新高-观点网",
-      "title": "世界黄金协会：三季度全球央行购金321吨 黄金ETF持仓创新高 - 观点网",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RVk4tU1YtRTV0SGFIbWloTmRnY2pxbWVBc0pRNEUtUkJfSFBlZnU3Ui1pdXVQelA0eWFCQ3U2QTd1WFI0YWxrX2ZYVHp0bWFBdnRhRFJ0YVB2YmMwa1N4S09R?oc=5",
-      "publishedAt": "2026-11-03T08:38:09.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
       "id": "google-news-china-gold-世界黄金协会-下调全年黄金投资需求增长预期至200吨-全球央行购金提速-etf持仓创新高-华尔街见闻",
       "title": "世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高 - 华尔街见闻",
       "source": "Google News China Gold",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYamNoMk5hRzZ2YVNZVUhKVElSTEdZbXBOY0NfWV9qWERGM2JsYy1VaUZKNTFEb2YzSG1xbkNLVTlyakR1c09VUXZfYXdCSWNIUDJr?oc=5",
       "publishedAt": "2026-11-03T07:58:13.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-china-gold-三季度全球央行购金延续增长-南方基金旗下金etf南方-159834-备受关注-jiemian-com",
-      "title": "三季度全球央行购金延续增长，南方基金旗下金ETF南方(159834)备受关注 - Jiemian.com",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qa1VUalE1bG5sODhwUkVnUnUwOUhBMkVYYUJGUUxvQ2dVSVRZd3A0UVJ2LUlqOE0xMW15ZVRVOHdFLXd3N0JTRHpPODMzWXNPZnpCZnFKR1Q?oc=5",
-      "publishedAt": "2026-11-03T06:52:40.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -179,33 +190,11 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-三季度全球黄金需求获支撑-央行购金与etf流入双发力-环球网",
-      "title": "三季度全球黄金需求获支撑，央行购金与ETF流入双发力 - 环球网",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HN1JBSno2cjZCZFEyOHAwSGtoeXFSSkdJaVpZcEloM245bDNfZWp3ME9oMS1HNFdKWmFRdWw5bmYzY0tWRUhzSGFyN1prT18wOC0tMjR4R3ZZeFU?oc=5",
-      "publishedAt": "2026-11-02T17:44:00.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
       "id": "google-news-china-gold-央行购金提速-黄金配置价值凸显-3股业绩倍增可期-名单-东方财富",
       "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单) - 东方财富",
       "source": "Google News China Gold",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qNXYtVlJFTEdGZkJ0Q0FJenBlT3VGelRwU1dTSXhxVFU5X0ZDSUhhSE5BYTk3SmljUlMtemlxN2phYUlLbWQ5d19mZl9uY1FBbGJITHMyMFNIZ191OGprYg?oc=5",
       "publishedAt": "2026-10-23T07:00:00.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "google-news-china-gold-又有一家央行拟降低黄金储备-黄金-不香了-东方财富",
-      "title": "又有一家央行拟降低黄金储备，黄金“不香了”？ - 东方财富",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtbXRwLUIxNDBQaXRwZG5OVkxSMThMdWJpUDNpYl9XU1FVVW8ybjZURFFwc1J6eFR5eG9DMXF1Vk1XcVIxcmRjYmt3R002N1dleGYzYng3TVRKZkVJQm9zYlk0U0NYZw?oc=5",
-      "publishedAt": "2026-10-13T07:00:00.000Z",
       "priority": "medium",
       "impact": "bullish",
       "scope": "china",
@@ -245,22 +234,33 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-全球央行购金趋势-央行购金积极消息频传-world-gold-council",
-      "title": "全球央行购金趋势：央行购金积极消息频传 - World Gold Council",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yNkl6R3pYNTQzOWhTWHIxRnZPbGRURHdzb1M2VmEtdDUzeTNSVDRnVHdlSXEzM2hfaHJDdDZFWlNZMnF3aWVPQ0U4OXJaZU52cURYd0xucGl0T3dtTjlN?oc=5",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+      "id": "google-news-gold-macro-gold-extends-rally-above-4-100-as-dollar-treasury-yields-fall-after-u-s-v",
+      "title": "Gold extends rally above $4,100 as dollar, Treasury yields fall after U.S. vote - Investing.com",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
+      "publishedAt": "2026-11-05T02:07:35.000Z",
+      "priority": "low",
+      "impact": "neutral",
+      "scope": "global",
+      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
     },
     {
-      "id": "google-news-gold-macro-gold-falls-below-3-930-as-dollar-and-u-s-treasury-yields-both-climb-marke",
-      "title": "Gold Falls Below $3,930 as Dollar and U.S. Treasury Yields Both Climb; Market Awaits Midterm Elections - BigGo Finance",
+      "id": "google-news-gold-macro-gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result-bloomberg-",
+      "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result - Bloomberg.com",
       "source": "Google News Gold Macro",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1va3BzNHpKVXcyYjVMWG92MEI3SXd3RW5wQTJrbmVrNFgyZU1lWkRuQ2lSUjE4OFdqTXpuNndFb01VQVo3ajZqcUlQTnBMc1g5a3RxS2V2NGxsMzNCQVhXd2xteDBUTmY1bTZkLWtuS0xxeV9iYVE?oc=5",
-      "publishedAt": "2026-11-04T01:56:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJrRWVPZ19DM1pLb3UzNEtBc0hseHNtMUY4RTRTRDdMb3Fnb19MM200Q05YNG8yN1VFYURtNjdqTE1EQUgxZG41R3ZQa0t3Z2JpQjFYUEY4VVlhLVk2dzR0dmhaaWdlUmdINE9Cb1cwRVdpbHJNTGZsejlmYkluVmdOSEZEVEpudmFZNENkZzFWSnFELUViV2NNTGUzUHBuMU9Wa3dpclhyZ2hPVUJTVGV4cw?oc=5",
+      "publishedAt": "2026-11-05T01:27:00.000Z",
+      "priority": "low",
+      "impact": "neutral",
+      "scope": "global",
+      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
+    },
+    {
+      "id": "google-news-gold-macro-the-dollar-decides-what-the-midterm-rally-in-gold-and-silver-says-about-t",
+      "title": "The dollar decides: What the midterm rally in gold and silver says about the next turn - Kitco",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTVLZkxYVUdZRGVjb0F6dDg1MnpUcWNPdktvWVBiSC1qUFJUMkQ3TTNaWlNCUExESFVaNlVlaDZaN0xRZ3ZPbHBjSnFrd2tDemV5NWc4SWtYaGt3eVJ5N0JZbE9lcTFTS3V5V1J0d0plU2JlTUJqRnoxVWphU2R5SEpxNWlQelE5YWtvV0x3bXZHNGhKRXR2U3YwYzBWYm5saE9EUmZDLUVyX0dkQlVpOQ?oc=5",
+      "publishedAt": "2026-11-04T23:53:18.000Z",
       "priority": "low",
       "impact": "neutral",
       "scope": "global",
