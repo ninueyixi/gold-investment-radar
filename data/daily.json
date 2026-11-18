@@ -1,7 +1,73 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T04:50:03.058Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T03:55:25.917Z",
   "news": [
+    {
+      "id": "google-news-gold-macro-gold-falls-toward-3-800-as-fed-hawks-reinforce-rate-hike-outlook-investin",
+      "title": "Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook - Investing.com",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5",
+      "publishedAt": "2026-11-18T01:14:02.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+    },
+    {
+      "id": "google-news-gold-macro-will-gold-prices-rise-after-the-fed-s-expected-december-rate-hike-yahoo-f",
+      "title": "Will Gold Prices Rise After the Fed's Expected December Rate Hike? - Yahoo Finance",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWctLXJnSWdVYW5Tcjh2S09STExVTWFuMWM4NFdnTjRFQ216c00xOVBRVUFPQ25JTDRkb1Uzd19ua2pyRkpRZ3hYZ2xxellPVjFyMGJQYkN3dVBUUnByVEhITzJKM1U3c3ZtM2tFSEd4SlRlMjlvbDhTUWd3czd5cFJrOTFCTWlCUDFOVzNwdU4ySTgxX2RHYWlDYS1laXUtN3c?oc=5",
+      "publishedAt": "2026-11-17T18:02:58.000Z",
+      "priority": "high",
+      "impact": "bearish",
+      "scope": "global",
+      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
+    },
+    {
+      "id": "google-news-gold-macro-gold-steadies-near-14-month-low-as-inflation-pressure-persists-bloomberg-",
+      "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists - Bloomberg.com",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDI4MEt3a3M4XzFhaC01R3pmSzdkOXZ2ZWhUWjhPb1lOZWZPbjdXTWFydWVFcmZNS21rZGZLUmZ6S21OcXFDUUkyN0NLc3BiZnlCWUJ1QmMxbHh0aWtZUjEzZFBuQng0bkRiVFZxN0pOUUJBQXRqQ0NGTUFZcEtLRUx6NkVWZklRTjhxOTNJMzdVUldYX21ieEFQcDlnTks2NFAxMDBrY1ktNmtlVzZYR2FxRQ?oc=5",
+      "publishedAt": "2026-11-17T16:43:08.000Z",
+      "priority": "high",
+      "impact": "bullish",
+      "scope": "global",
+      "reason": "新闻涉及降息、通胀、避险或地缘风险，通常会降低持有黄金的机会成本或提升避险需求。"
+    },
+    {
+      "id": "google-news-gold-macro-why-gold-loses-appeal-when-fed-rate-hikes-lift-treasury-yields-stonex",
+      "title": "Why Gold Loses Appeal When Fed Rate Hikes Lift Treasury Yields - StoneX",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXlpZ3Z4b0M5TERBS29zVUY5aHF0V2t4TklmTVlfSkpkalRiM25SV0otVl9UNWpwQUVtbXkzd1kyODVsbjVqUzE5czlYRVFSbGFGd0oySURib2IwcVlXZ3BYR0lhQUNYLXNIMGNQZ0pHQ2RVVklfemNDWmxjZ2xjRGRwc1BwajhHVDlDUmdQQ25CZjMwT3pkYVFicHAzS28?oc=5",
+      "publishedAt": "2026-11-17T13:16:08.000Z",
+      "priority": "high",
+      "impact": "bearish",
+      "scope": "global",
+      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
+    },
+    {
+      "id": "google-news-gold-macro-gold-and-silver-hit-lowest-prices-in-a-year-as-expected-interest-rate-hik",
+      "title": "Gold And Silver Hit Lowest Prices In A Year As Expected Interest Rate Hikes Loom - Forbes",
+      "source": "Google News Gold Macro",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXYxQ0NqanJTREg3SC1OMUZQUHdGN3lfWWxpSUxDNXVGWTdDLTJwQWJiUktETmhoNVNGa0dnd1ZEd2dIUGJrNnVJNGk0c19BOEE3RWVabUJQVGlKWFJ3TE45YmswTExqNDRuQnVRUXgycmV2VTVVenVZbklIMVRvVzF6cFZPemFwNVFsRS1za2dYVXhSY3IzZms3Q0MzYkFqMHBFbDJzOW1nTE5nc1k5b2p5eGI1bXhEOUotdkJWMlg1Z1NLYzBxSXdkS3pyQQ?oc=5",
+      "publishedAt": "2026-11-16T21:30:07.000Z",
+      "priority": "high",
+      "impact": "bearish",
+      "scope": "global",
+      "reason": "新闻涉及加息、美元走强或收益率上升，通常会提高持有黄金的机会成本，对金价形成压力。"
+    },
+    {
+      "id": "google-news-china-gold-百惠金控-港交所年内公布人民币黄金期货细节-两地商品期货互联互通列为长远目标-凤凰网财经",
+      "title": "百惠金控：港交所年内公布人民币黄金期货细节，两地商品期货互联互通列为长远目标 - 凤凰网财经",
+      "source": "Google News China Gold",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DLTdXQkpoUmRGV0xoXy1JZVVBcmVITko1akh1WWVsSjNTRnoteHlVTWxwTDNWam9WcHdMUEVNbjJqajVwSW94US1xbmdPaldH?oc=5",
+      "publishedAt": "2026-11-17T08:29:11.000Z",
+      "priority": "medium",
+      "impact": "bullish",
+      "scope": "china",
+      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
+    },
     {
       "id": "google-news-china-gold-中信建投2027黄金展望-利率压制有限-央行购金托底-金价中枢有望震荡向上-提供者-智通财经-英为财情-investing-com",
       "title": "中信建投2027黄金展望：利率压制有限、央行购金托底，金价中枢有望震荡向上 提供者 智通财经 - 英为财情 Investing.com",
@@ -135,17 +201,6 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-中金-全球央行购金放缓-实际利率对黄金价格影响或更大-华尔街见闻",
-      "title": "中金：全球央行购金放缓，实际利率对黄金价格影响或更大 - 华尔街见闻",
-      "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdHBZakx2UElVeG51QkYwUFp5Q2VHUXZqc0V4cW1IQmpWSm1LNExWVExIZnV4S1hObklnaG5HOW1JUGdGQkpzcndYZXZZMlQyVjRB?oc=5",
-      "publishedAt": "2026-06-08T07:00:00.000Z",
-      "priority": "medium",
-      "impact": "bullish",
-      "scope": "china",
-      "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
       "id": "google-news-china-gold-全球央行购金趋势-4月各央行恢复净购金-world-gold-council",
       "title": "全球央行购金趋势：4月各央行恢复净购金 - World Gold Council",
       "source": "Google News China Gold",
@@ -201,70 +256,15 @@
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
     },
     {
-      "id": "google-news-china-gold-全球央行购金趋势-全球央行购金热潮延续至11月-world-gold-council",
-      "title": "全球央行购金趋势 全球央行购金热潮延续至11月 - World Gold Council",
+      "id": "google-news-china-gold-全球央行购金热潮-正在重塑黄金市场的需求结构-经济频道",
+      "title": "全球央行购金热潮 正在重塑黄金市场的需求结构 - 经济频道",
       "source": "Google News China Gold",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdHN3LTc5SDlHTUlpczdoZHdRSlJTR2pxYlpMUzdKRnB2NGg3SFhoNjN6R0FyeVktR0J4SXZzaVFhWE9ZTTNfeDhGeE1JSVRWT0hqQzdWdW51NVlfeHJF?oc=5",
-      "publishedAt": "2026-01-06T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uazdYcUhOQW03My00c0RjeTdJVzdTX0YxaGZoMGZaZWYtbWRnV05IcTJQUzIxaUtwY3RlTExQckthblJNMUlWbmNicm95RWVRN09JV3dOU0pHS0RpRkM0Ty1tLXpFUEx3RU9xRUhRQWNud3ZSYnVUMi1sTQ?oc=5",
+      "publishedAt": "2026-01-24T08:00:00.000Z",
       "priority": "medium",
       "impact": "bullish",
-      "scope": "both",
+      "scope": "china",
       "reason": "新闻涉及央行购金、人民币汇率或国内黄金溢价，可能影响国内黄金需求和人民币计价表现。"
-    },
-    {
-      "id": "federal-reserve-agencies-extend-comment-period-for-proposed-third-party-risk-management-guidance",
-      "title": "Agencies extend comment period for proposed third-party risk management guidance",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "publishedAt": "2026-11-13T21:15:00.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "bls-latest-numbers-major-economic-indicators-latest-numbers",
-      "title": "Major Economic Indicators Latest Numbers",
-      "source": "BLS Latest Numbers",
-      "url": "https://www.bls.gov/bls/",
-      "publishedAt": "2026-11-13T15:01:02.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "federal-reserve-federal-reserve-board-announces-pricing-effective-january-1-2027-for-payment-ser",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "publishedAt": "2026-11-12T18:30:00.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "federal-reserve-federal-reserve-announces-revised-tentative-schedule-of-federal-open-market-comm",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "publishedAt": "2026-11-12T17:45:00.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
-    },
-    {
-      "id": "federal-reserve-monetary-policy-federal-reserve-announces-revised-tentative-schedule-of-federal-",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "source": "Federal Reserve Monetary Policy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "publishedAt": "2026-11-12T17:45:00.000Z",
-      "priority": "low",
-      "impact": "neutral",
-      "scope": "global",
-      "reason": "暂未命中明确的黄金影响规则，建议作为低优先级市场背景信息观察。"
     }
   ]
 }
